@@ -36,9 +36,7 @@ function Countries() {
     }
     return (
         <>
-            <div className=" ">
-                {page}
-            </div>
+          
 
         </>
     )
